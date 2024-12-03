@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paragns
 - 👀 I’m interested in 
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m currently a professinal software deverloper
+- 💞️ I’m looking to collaborate on system design projects
 - 📫 How to reach me ...paragns1010@gmail.com
 
 <!---
